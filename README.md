@@ -1,6 +1,6 @@
 # 全球儿童暴力分析——交互式可视化分析项目
 ## 项目故事
--	将运用大数据分析处理的知识，将搜集到的有关儿童受暴力侵害的相关数据做合并和对比分析，对儿童暴力发生的地区、各式儿童暴力事件（性侵、家暴等）的发生数目、童工及各个地区教育程度等，初步得出对儿童暴力事件频发的原因的分析结果。
+将运用大数据分析处理的知识，将搜集到的有关儿童受暴力侵害的相关数据做合并和对比分析，对儿童暴力发生的地区、各式儿童暴力事件（性侵、家暴等）的发生数目、童工及各个地区教育程度等，初步得出对儿童暴力事件频发的原因的分析结果。
 ## 项目目的
 -	完成一个最小可行的交互式数据可视化产品设计，产品中体现数据科学代码实践。
 -	让数据说话，以数据图表形式来讲述故事。数据交互效果更好地呈现数据分析结果，也深度激发用户的阅读兴趣，从而尝试吸引更多的关注度。
@@ -11,13 +11,13 @@
 -	儿童时期是人的一个重要时期，人的记忆可追溯到四五岁左右，大部分受害者儿童都是在四五岁之后受到的伤害，产生的不好的记忆会伴随人的一生，对人的身心会造成不可磨灭的影响。所以对儿童健康问题是一个需要重视的点。
 -	随着社会各界对儿童保护的重视，一些隐藏在校园、家庭等场所中针对儿童的虐待、性侵、欺凌等暴力事件逐渐被媒体曝光。媒体介入儿童暴力事件的报道，涉及儿童保护的法律法规的提出，都促进了社会的改变。
 ## 所需数据（暂定）
-联合国儿童基金会数据：Sexual violence
-联合国儿童基金会数据：Violent discipline
-Our world in Data：Ethnographic and Archaeological Evidence on Violent Deaths
-Our world in Data：Child Labor
-Our world in Data：Violence against children and children’s rights
+联合国儿童基金会数据：Sexual violence  
+联合国儿童基金会数据：Violent discipline  
+Our world in Data：Ethnographic and Archaeological Evidence on Violent Deaths  
+Our world in Data：Child Labor  
+Our world in Data：Violence against children and children’s rights  
 ## 数据呈现
 -	完成最小可行的交互式数据可视化产品设计
--	-做出PRD及至少有2份成功交互且交互意义相关连（以超连结或交互达成）的交互式界面（其中至少1份含地图）的产品原型或完整产品
+-	做出PRD及至少有2份成功交互且交互意义相关连（以超连结或交互达成）的交互式界面（其中至少1份含地图）的产品原型或完整产品
 -	使用相关Pyecharts 及/或Plotly模块等等的整合外观样式及数据科学代码实践
 -	外观样式的前端CSS 及Javascript库调用实践（如Bootstrap）
