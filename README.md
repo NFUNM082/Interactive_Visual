@@ -1,4 +1,7 @@
 # 以中国的影视传媒业现状与消费水平的探究——交互式可视化分析项目
+
+## [可视化图表及代码](http://nfunm082.gitee.io/interactive_visual)
+
 ## 项目背景
 文化作为一个国家综合实力体现的一部分。影视是典型的文化消费品，行业受益于我国经济增长及消费升级，发展迅速。
 从目前中国影视大环境来看，影视传媒行业有非常大的发展潜力。以主要生产品电影为例，国产电影整体制作水平不断提高，优秀电影不断增加激发了消费者的消费欲望，推动了我国电影票房快速增长，发展前景广阔。
@@ -15,7 +18,7 @@
 -	国家统计局
 -	Python爬取全国影院分布数据
 -  [中国电影数据榜](http://www.films.cn/boxoffice)
-## [可视化图表及代码](https://github.com/NFUNM082/Interactive_Visual)
+
 ## pythonanywhere部署页面
 [1](http://liangshanyi777.pythonanywhere.com/)
 
